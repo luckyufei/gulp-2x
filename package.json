@@ -1,0 +1,31 @@
+{
+  "name": "gulp-2x",
+  "version": "0.0.1",
+  "description": "gulp plugin to resize 2x image to 1x and 1.5x image ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allanfish/gulp-2x.git"
+  },
+  "keywords": [
+    "gulp",
+    "image",
+    "imageresize",
+    "2x",
+    "1x"
+  ],
+  "author": "allanfish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanfish/gulp-2x/issues"
+  },
+  "homepage": "https://github.com/allanfish/gulp-2x#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "node-lwip": "0.0.6",
+    "through2": "^2.0.0"
+  }
+}
